@@ -5,4 +5,5 @@ The project used only React.
 
 ## Project presentation
 
-![Screenshot_6](https://user-images.githubusercontent.com/18246075/160388883-d08d9c20-dea0-4f1d-8ae8-80145f0bd764.png)
+![Screenshot_6](https://user-images.githubusercontent.com/18246075/160389223-a90c6a37-7daa-409e-b5b4-b35fbd1e71cc.png)
+
